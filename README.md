@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate software engineer intern at ALX Africa, specializing in backend development. Currently, I am pursuing a degree in Computer Science and Automatic Control at Tanta University. I enjoy solving problems, particularly those related to data structures and algorithms, and I'm actively contributing to various projects to enhance my skills as a full-stack developer.
+I am a dedicated Computer Science student with a strong background in backend development using Node.js. I have gained substantial knowledge in databases, data structures, and algorithms, and I actively solve problems on LeetCode. Recently, I was accepted into the ALX Africa internship, where I enhanced my understanding of software engineering fundamentals, networking, web development, system design, and problem-solving in data structures and algorithms. My goal is to become a proficient full-stack developer, leveraging my skills to build robust and scalable applications.
 
 - 💻 Backend Developer
 - 🌐 Learning Full-Stack Development
@@ -22,9 +22,22 @@ I am a passionate software engineer intern at ALX Africa, specializing in backen
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/mahmoudnabil133/project1): Brief description of project 1.
-- [Project 2](https://github.com/mahmoudnabil133/project2): Brief description of project 2.
-- [Project 3](https://github.com/mahmoudnabil133/project3): Brief description of project 3.
+### [Airbnb Website](https://github.com/mahmoudnabil133/AirBnB_clone_v3)
+Developed a comprehensive Airbnb-like platform where users can book rooms, leave reviews, and view place amenities.
+- **Frontend Design**: Designed and implemented the user interface.
+- **Database**: Utilized MySQL and SQLAlchemy for data management.
+- **Console Interpreter**: Created a console for CRUD operations.
+- **REST APIs**: Built APIs for seamless data interaction.
+- **DevOps and System Administration**: Deployed the application using a server as a load balancer with SSL certificates and two hosting servers.
+
+### [Book Management Library](https://github.com/mahmoudnabil133/E_Book-app)
+Developed a book management library using the MERN stack (MongoDB, Express, React, Node.js).
+- **Backend Repository**: [GitHub Backend](https://github.com/mahmoudnabil133/E_Book-app)
+- **Frontend Repository**: [GitHub Frontend](https://github.com/mahmoudnabil133/client)
+
+### [Chat App Backend](https://github.com/mahmoudnabil133/chat_app)
+Implemented a chat application backend using Node.js and Express.
+- **GitHub Repository**: [Chat App Backend](https://github.com/mahmoudnabil133/chat_app)
 
 ## Contributions
 
@@ -34,14 +47,4 @@ Here are some of my notable projects:
 
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-nabil-97278b24b/)
 - [GitHub](https://github.com/mahmoudnabil133)
-- [LeetCode](https://leetcode.com/problemset/)
-
----
-
-Feel free to customize this template further to better fit your personal style or highlight specific projects or achievements.
-
-
-<!---
-mahmoudnabil133/mahmoudnabil133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LeetCode](https://leetcode.com/u/mahmoudnabil133)
