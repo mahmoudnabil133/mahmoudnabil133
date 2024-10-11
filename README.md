@@ -57,12 +57,12 @@ Here’s a glimpse of some of the projects I’ve contributed to or developed. C
   **Technologies:** NestJS, TypeScript, MySQL, React, Docker  
   **Description:** Full-stack development including server-side REST API, database management, and client-side interaction using React for seamless viewing experience.
 
-- **[Airbnb Clone](https://github.com/mahmoudnabil133/airbnb-clone)** – A fully-functional clone of the Airbnb platform, focusing on property rental, bookings, and payments.  
+- **[Airbnb Clone](https://github.com/mahmoudnabil133/AirBnB_clone_v3)** – A fully-functional clone of the Airbnb platform, focusing on property rental, bookings, and payments.  
   **Role:** Backend Developer  
   **Technologies:** Express, MongoDB, Docker, Azure  
   **Description:** Implemented user management, search functionalities, and secure booking processes, with deployment on Azure for scalability.
 
-- **[Simple Shell](https://github.com/mahmoudnabil133/simple-shell)** – A command-line shell written in C that simulates a Unix shell environment.  
+- **[Simple Shell](https://github.com/mahmoudnabil133/simple_shell)** – A command-line shell written in C that simulates a Unix shell environment.  
   **Role:** Lead Developer  
   **Technologies:** C, Shell Scripting  
   **Description:** Developed a custom shell handling basic commands and piping with a focus on low-level system programming.
