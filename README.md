@@ -1,50 +1,104 @@
-# Hi there, I'm Mahmoud Nabil! 👋
+# <div align="center">Mahmoud Nabil 🚀</div>
+### <div align="center">Backend Developer | ALX Software Engineering Graduate | Passionate System Builder</div>
 
-## About Me
+---
 
-I am a dedicated Computer Science student with a strong background in backend development using Node.js. I have gained substantial knowledge in databases, data structures, and algorithms, and I actively solve problems on LeetCode. Recently, I was accepted into the ALX Africa internship, where I enhanced my understanding of software engineering fundamentals, networking, web development, system design, and problem-solving in data structures and algorithms. My goal is to become a proficient full-stack developer, leveraging my skills to build robust and scalable applications.
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudnabil133&label=Profile%20Views&color=blue&style=plastic)
 
-- 💻 Backend Developer
-- 🌐 Learning Full-Stack Development
-- 🔧 Technologies: Node.js, Express, MongoDB, React, Redux
-- 🧠 Problem Solver: Active on LeetCode
-- 📚 Always Learning: Software Engineering, Networking, System Design
+### 👋 About Me
 
-## GitHub Stats
+I’m **Mahmoud Nabil**, a passionate backend developer and a proud graduate of the ALX Software Engineering Program. My journey into software engineering started with a strong desire to **build well-structured systems** that solve real-world problems efficiently. I am driven by a passion for learning and continuous improvement, particularly in areas like **system design, Docker, and scaling applications**.
 
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudnabil133&show_icons=true&theme=radical)
+I specialize in backend development, but my skills also extend to **frontend design** and **DevOps**, making me a versatile developer capable of working across the entire tech stack.
 
-## Most Used Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnabil133&layout=compact&theme=radical)
+### 🚀 What Inspires Me
 
-## Repositories
+- **Building efficient and scalable systems** that are easy to maintain and deploy.
+- Leveraging **Docker** for containerization and **cloud technologies** like **Azure** for deployment.
+- Continuously learning **system design** to improve architectural decisions.
+- Working with **cutting-edge technologies** to stay relevant in the ever-evolving tech world.
 
-Here are some of my notable projects:
+---
 
-### [Airbnb Website](https://github.com/mahmoudnabil133/AirBnB_clone_v3)
-Developed a comprehensive Airbnb-like platform where users can book rooms, leave reviews, and view place amenities.
-- **Frontend Design**: Designed and implemented the user interface.
-- **Database**: Utilized MySQL and SQLAlchemy for data management.
-- **Console Interpreter**: Created a console for CRUD operations.
-- **REST APIs**: Built APIs for seamless data interaction.
-- **DevOps and System Administration**: Deployed the application using a server as a load balancer with SSL certificates and two hosting servers.
+### 🛠️ Tech Stack & Proficiencies
 
-### [Book Management Library](https://github.com/mahmoudnabil133/E_Book-app)
-Developed a book management library using the MERN stack (MongoDB, Express, React, Node.js).
-- **Backend Repository**: [GitHub Backend](https://github.com/mahmoudnabil133/E_Book-app)
-- **Frontend Repository**: [GitHub Frontend](https://github.com/mahmoudnabil133/client)
+Here are some of the technologies and tools I excel in:
 
-### [Chat App Backend](https://github.com/mahmoudnabil133/chat_app)
-Implemented a chat application backend using Node.js and Express.
-- **GitHub Repository**: [Chat App Backend](https://github.com/mahmoudnabil133/chat_app)
+- **Languages:**  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## Contributions
+- **Frameworks & Libraries:**  
+  ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnabil133&theme=radical)
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Contact Me
+- **DevOps & Deployment:**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-nabil-97278b24b/)
-- [GitHub](https://github.com/mahmoudnabil133)
-- [LeetCode](https://leetcode.com/u/mahmoudnabil133)
+---
+
+### 📚 Projects I’ve Worked On
+
+Here’s a glimpse of some of the projects I’ve contributed to or developed. Check out more on [my GitHub profile](https://github.com/mahmoudnabil133):
+
+- **[Social App](https://github.com/mahmoudnabil133/social-app)** – A feature-rich social media platform enabling users to create profiles, connect, and share updates.  
+  **Role:** Backend Developer  
+  **Technologies:** Node.js, Express, MongoDB, React, Docker  
+  **Description:** Developed RESTful APIs, implemented authentication with JWT, and designed a scalable system architecture for real-time updates.
+
+- **[WatchSeries](https://github.com/mahmoudnabil133/watchseries)** – A web app to stream and manage your favorite TV series.  
+  **Role:** Full-Stack Developer  
+  **Technologies:** NestJS, TypeScript, MySQL, React, Docker  
+  **Description:** Full-stack development including server-side REST API, database management, and client-side interaction using React for seamless viewing experience.
+
+- **[Airbnb Clone](https://github.com/mahmoudnabil133/airbnb-clone)** – A fully-functional clone of the Airbnb platform, focusing on property rental, bookings, and payments.  
+  **Role:** Backend Developer  
+  **Technologies:** Express, MongoDB, Docker, Azure  
+  **Description:** Implemented user management, search functionalities, and secure booking processes, with deployment on Azure for scalability.
+
+- **[Simple Shell](https://github.com/mahmoudnabil133/simple-shell)** – A command-line shell written in C that simulates a Unix shell environment.  
+  **Role:** Lead Developer  
+  **Technologies:** C, Shell Scripting  
+  **Description:** Developed a custom shell handling basic commands and piping with a focus on low-level system programming.
+
+---
+
+### 🌟 Achievements
+
+- **LeetCode Problem Solver:**  
+  I’ve solved over **300 problems** on [LeetCode](https://leetcode.com/u/mahmoudnabil133/), continuously improving my algorithmic thinking and problem-solving skills. Tackling these challenges helps me sharpen my backend development capabilities, especially in areas like **data structures** and **algorithms**.
+
+---
+
+### 💼 My Professional Journey
+
+I have experience in various roles, including:
+
+- **Backend Developer**  
+  Crafting scalable and efficient backend systems.
+
+- **Frontend Developer**  
+  Designing interactive and user-friendly interfaces.
+
+- **DevOps Engineer**  
+  Automating deployment processes with **Docker**, **Azure**, and other CI/CD tools.
+
+---
+
+### 🔍 How to Reach Me
+
+- **GitHub:** [mahmoudnabil133](https://github.com/mahmoudnabil133)  
+- **LinkedIn:** [Mahmoud Nabil](https://www.linkedin.com/in/mahmoud-nabil-97278b24b/)  
+- **Email:** hodanabil155@gmail.com  
+- **LeetCode:** [mahmoudnabil133](https://leetcode.com/u/mahmoudnabil133/)
+
+---
+
+### ⚡ Fun Fact
+- When I'm not coding, you'll find me exploring new tech, reading up on **system design**, or challenging myself with problems on **LeetCode**!
