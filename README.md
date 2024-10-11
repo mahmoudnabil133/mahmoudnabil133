@@ -99,6 +99,3 @@ I have experience in various roles, including:
 - **LeetCode:** [mahmoudnabil133](https://leetcode.com/u/mahmoudnabil133/)
 
 ---
-
-### ⚡ Fun Fact
-- When I'm not coding, you'll find me exploring new tech, reading up on **system design**, or challenging myself with problems on **LeetCode**!
